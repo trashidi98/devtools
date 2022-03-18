@@ -24,6 +24,10 @@ Checkout their noSQL database which should be free use. While you're there also 
 
 https://www.scylladb.com/open-source-nosql-database/#dynamodb-compatibleapi
 
+How to get started with Dynamo client: https://www.scylladb.com/webinar/on-demand-webinar-introducing-scyllas-open-source-amazon-dynamodb-compatible-api/
+
+More open-source offering: https://www.scylladb.com/open-source-nosql-database/
+
 # Caddy Server
 
 Yeah we have Apache, NGINX, but what if we could explore alternatives that are just as good. Check out Caddy!
