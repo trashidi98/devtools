@@ -34,4 +34,8 @@ Yeah we have Apache, NGINX, but what if we could explore alternatives that are j
 
 https://caddyserver.com/
 
+# Cypress
+
+Cypress is a test-framework for the front-end, easy to setup and launch. It acts exactly like a user would on your app and records what is going on the app: https://www.youtube.com/watch?v=BQqzfHQkREo
+
 
