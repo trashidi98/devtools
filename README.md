@@ -38,4 +38,6 @@ https://caddyserver.com/
 
 Cypress is a test-framework for the front-end, easy to setup and launch. It acts exactly like a user would on your app and records what is going on the app: https://www.youtube.com/watch?v=BQqzfHQkREo
 
+# Plausible 
 
+Open source framework for web analytics: https://plausible.io
